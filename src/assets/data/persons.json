@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "1",
     "fullName": "Uchenna Sylvester Okoro",
     "imageLink": "https://avatars3.githubusercontent.com/u/38369717?s=460&v=4",
@@ -18,5 +17,25 @@
       "country": "Nigeria"
     },
     "description": "I am a web developer passionate about open source, teaching and growing a sustainable tech ecosystem"
+  },
+  {
+    "id": "2",
+    "fullName": "Njoku Sunny Ojo",
+    "imageLink": "https://sunny-ojo.herokuapp.com/assets/img/sunny-removebg-preview.png",
+    "title": "Php/Laravel Web developer",
+    "links": {
+      "website": "https://sunny-ojo.herokuapp.com",
+      "linkedin": "https://www.linkedin.com/in/sunny-ojo-7635221aa/",
+      "github": "https://github.com/sunny-ojo",
+      "twitter": "https://twitter.com/sunnyojo4",
+      "facebook": "https://facebook.com/sunnyojonjoku",
+      "medium": ""
+    },
+    "location": {
+      "city": "Ohafia",
+      "state": "Abia",
+      "country": "Nigeria"
+    },
+    "description": "I am a web developer that loves building awesome things."
   }
 ]
